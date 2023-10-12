@@ -9,3 +9,4 @@
 - [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 2: 테스트 코드로부터 피드백 받기](https://tech.kakaopay.com/post/mock-test-code-part-2/)
 - [8년차 개발자가 월 1억씩 벌게 된 이야기](https://www.sidehustlerstory.com/p/damon)
 - [JPA 페이징 Performance 향상 방법](https://cheese10yun.github.io/page-performance/)
+- [토스ㅣSLASH 23 - 실시간 시세 데이터 안전하고 빠르게 처리하기](https://www.youtube.com/watch?v=SF7eqlL0mjw)
