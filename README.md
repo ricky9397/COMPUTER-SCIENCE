@@ -8,3 +8,4 @@
 - [변화에 유연한 HTTP 클라이언트 만들기](https://tech.inflab.com/20230723-pure-http-client/)
 - [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 2: 테스트 코드로부터 피드백 받기](https://tech.kakaopay.com/post/mock-test-code-part-2/)
 - [8년차 개발자가 월 1억씩 벌게 된 이야기](https://www.sidehustlerstory.com/p/damon)
+- [JPA 페이징 Performance 향상 방법](https://cheese10yun.github.io/page-performance/)
