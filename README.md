@@ -12,3 +12,4 @@
 - [토스ㅣSLASH 23 - 실시간 시세 데이터 안전하고 빠르게 처리하기](https://www.youtube.com/watch?v=SF7eqlL0mjw)
 - [협업을 잘하는 개발자가 되어보자 - 프로그래머가 아니라 문제 해결사가 되자!](https://velog.io/@teo/collaboration)
 - [깃형상관리 잘하는법](https://news.hada.io/topic?id=11403&utm_source=oneoneone)
+- [스토리지 최적의 스펙관리 시스템 만들기](https://techblog.woowahan.com/13539/)
