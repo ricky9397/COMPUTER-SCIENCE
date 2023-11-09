@@ -13,3 +13,4 @@
 - [협업을 잘하는 개발자가 되어보자 - 프로그래머가 아니라 문제 해결사가 되자!](https://velog.io/@teo/collaboration)
 - [깃형상관리 잘하는법](https://news.hada.io/topic?id=11403&utm_source=oneoneone)
 - [스토리지 최적의 스펙관리 시스템 만들기](https://techblog.woowahan.com/13539/)
+- [Discord가 한대의 서버로 2백만명의 동시 사용자를 서빙하는 방법](https://news.hada.io/topic?id=11762)
