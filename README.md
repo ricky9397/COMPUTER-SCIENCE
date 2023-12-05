@@ -16,3 +16,4 @@
 - [Discord가 한대의 서버로 2백만명의 동시 사용자를 서빙하는 방법](https://news.hada.io/topic?id=11762)
 - [null 리턴은 왜 나쁠까?](https://toss.tech/article/engineering-note-2)
 - [VPN](https://ace0507.tistory.com/m/149)
+- [나를 가장 지치게 만들었던 버그](https://wormwlrm.github.io/2023/12/03/Weirdest-bug-I-solved.html)
