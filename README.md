@@ -21,3 +21,4 @@
 - [프론트엔드 클린코드 - 복잡한 네이밍 회피](https://www.zigae.com/avoid-hard-naming/)
 - [리액트 배칭(Batching)의 모든 것](https://yozm.wishket.com/magazine/detail/2493/)
 - [배달의민족에서 금칙어를 관리하는 방법](https://techblog.woowahan.com/15764/)
+- [Locust 성능 테스트 도구 소개](https://cheese10yun.github.io/locust-part-1/)
